@@ -1,0 +1,6 @@
+self: super:
+
+{
+  nixpkgs-overlay = {
+  };
+}
